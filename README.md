@@ -8,7 +8,7 @@ Realizar transferências com verificação de saldo insuficiente.
 Encerrar o programa de forma segura.
 
 Tecnologias utilizadas:
-Java (versão X)
+Java (versão 21.0.8)
 Scanner para entrada de dados
 
 Estrutura do código:
